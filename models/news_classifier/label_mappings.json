@@ -1,0 +1,32 @@
+{
+  "label2id": {
+    "Agriculture": 0,
+    "automobiles": 1,
+    "bank": 2,
+    "business": 3,
+    "economy": 4,
+    "education": 5,
+    "entertainment": 6,
+    "health": 7,
+    "politic": 8,
+    "sports": 9,
+    "technology": 10,
+    "tourism": 11,
+    "world": 12
+  },
+  "id2label": {
+    "0": "Agriculture",
+    "1": "automobiles",
+    "2": "bank",
+    "3": "business",
+    "4": "economy",
+    "5": "education",
+    "6": "entertainment",
+    "7": "health",
+    "8": "politic",
+    "9": "sports",
+    "10": "technology",
+    "11": "tourism",
+    "12": "world"
+  }
+}
